@@ -1,0 +1,25 @@
+[I:]:                     Found Xamarin.Android 7.1.0
+[I:sdk]:                  Runtime path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Xamarin\Android
+[I:sdk]:                  Framework path: C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory not found.
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\AndroidNdkDirectory found:
+    Path contains ndk-stack in \. (C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r13b).
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\JavaSdkDirectory found:
+    Path contains jarsigner.exe in \bin (C:\Program Files\Java\jdk1.8.0_101).
+[I:sdk]:                  Looking for Android SDK..
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory not found.
+[I:sdk]:                    Key HKCU\SOFTWARE\Xamarin\MonoAndroid\PrivateAndroidSdkPath not found.
+[I:sdk]:                    Key HKCU\SOFTWARE\Android SDK Tools\Path not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\Android SDK Tools\Path found:
+    Path contains adb in \platform-tools (C:\Program Files (x86)\Android\android-sdk).
+[I:]:                     Found Android SDK. API levels: 23
+[I:]:                     Tracking android devices started
+[D:]:                     Tracking avd started
+[D:]:                     avd watcher *.ini path: 'C:\Users\Administrator\.android\avd'
+[D:]:                     avd watcher: got device list from avd with 1 devices
+[W:]:                     Adb connection refused
+[I:]:                     Starting Adb server (adb start-server)
+[I:]:                     Adb start-server operation completed
+[D:]:                     TrackDeviceTask got: 
+[I:]:                     Got new device list from adb with 0 devices
